@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="151"
+   height="55"
+   viewBox="0 0 151 55"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="VRAM.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5773921"
+     inkscape:cx="230.44366"
+     inkscape:cy="149.93102"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs10">
+    <clipPath
+       id="clip0_2834_18834">
+      <rect
+         width="402.79999"
+         height="154.10001"
+         fill="#ffffff"
+         id="rect10"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <image
+     width="48"
+     height="48"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAABnhJREFU&#10;aIHVmGuQFNUVgL/TPbPua4YF1gLXgIuPcqnICquuiJZsZAFfiVEKKatCMARS/lDkhxZJ5ZeC/pC1&#10;EgwPBcqSpCitUqzCECopWYNaRSoaw8uID0IIjwKWXWbXfc/M9s2Pnunumbk907O7Idn7p0+d233O&#10;+U6fc/veFgBqa0vpjt5sKJ5WymoGVY1SAgpQoLKuWbLS6Uei088rlGoH9mGxARKHgQGT2qZSumWl&#10;KLUVaESoAATBHZJ1zZIl6L1F2NTMix2bzEDUw4jZjbKOmJgTbxHYijBxJA4vE0RKlnJQjSiz1TQq&#10;atYjNI6Gw8sOIVSElEgzKqX0XhmGLgWhhvu8j039vAJFcwikOoNsTEFQHQKRERn/30JIyCmuMQoR&#10;sr0EogWBklCIB+9tYlZ9XUqp3GtazNGpnPlEIsG/Tp7i/Q/2c+7chWFD2G+giLoLl5Tw/XubWPbY&#10;Q4zGSCQS/Hbn26z/1Sa++ecJrKGhoiCM1JKUWgPFX/bqRnGEw2GWL3uMnW9s4daGmYV9Z8kGGBQH&#10;MfpDRGiYOYPXNrZQUnJFURCpJjZALFCFy0khxLq6OXuuzScc5aPPvCUcNqmqGkdJOOxAzKz/Lo//&#10;aAlbX/9d4J4QmXyXchvNcpvOZ5NliPCdmiuZUBVNE2nv89UDKEVlZQWLH36Any5bQnlZqcO2/+MD&#10;zH9wCclEwj8Ojy6Ukf0Ab8JSilNnLnDqzPmCxgvtOA8fPcbsxpnc1nCzAzDl6homThjPhbaLgZZY&#10;w64nTx8U3RPD1CF09/TwxZfH8Q7TNCkrKw9s07DJLh9EeVkZZsh05pXzpcsewWzaq9BlgljQfDfb&#10;Nr5IzeTJnnld7MFtpr7EBmDhyEX0RN4PjkA0UklD/XTWrF7Bwnl3cebseULhcCoIv8wb7nwBPyGH&#10;eJQhqqoiNM+dzeIfLmB+0xyqxkU0gXqvWVPpLU4BPyHEAGWNKsSC783h56uX01BfRzRSqc+yswfT&#10;vYZ0meQGnK1L7YVGDhGNVNBQfyNrVj3OwnvmaIKyR//AIJZSboDZ8Ts9KL5Z9+pCbkaGB1E1LkLz&#10;3NtY/IN5zJ97u6ZU7DEYT9C6/y+8uWsvbe0xzxvQ5F8EEQm0FXdLaBgQC++5nTVP/ZiG+huJRiq0&#10;wViWxYFPDrO25VU+O/gPYp1dKCvtz0m5DiPQeSKzhAJAmIZJ/fQbWPeLn3HfvDt8nENPbx/HT5ym&#10;ZdMOdu1+n8F4HGeLkSf7brQ2WCGI3BIqANF05yxeeWE1ddfXal0PxhO0fvRX3t7dynt/3E8s1uXx&#10;6pNJHYAHMh+EvoR8IKonVrG1ZQ3Tpl6V49KyLA58epS1L2/ns8PHiHV+a5dKoeVQF3z2KpQHwr+E&#10;NBBP/uSRnOD7+gb4+sRpWjbvZNfvP2BwMJ4VqU/WHVn3HdCsQj4Q+UvII5eWXsH9zbMz/PT29dOy&#10;+U1+s/0dLnV25tZ3gC+p73fAx042ROESSskTxkdTZwB3fHLwGC1b3qK3t59hbzt0w9n76O14IQwn&#10;WIdcL5eEwxhGZrb+faaN3r5BTyaHswHUEmjuy5TF2U47DgtA+J2HR7qL1dr1g82FyDrU54PIzZik&#10;nY8EQpuU4BCpKAtD9A/EGbKsDD91108lUlkxQggfguLOA4rMJsxt5ktdvVy4GOO6a9xldMb0aTz/&#10;7HJ2/eFDenr7UlrdGVint3U9vf0cOvqVY/Pc+TbiiWTKNwVXMZHaRcr+G5HWev9MpDNuy888sYiX&#10;frkiI1fxRJJYVzfJ5JBHm7XE5Flx1r28jT1/+si5MZlM0t4RY2goSZAfBSGbKJ39/G9i8449LF3U&#10;zE11tU71loRDTKoe7x9hgTEYT3D2fLsmOPHNuldnODdieGpS3xN9AwlWPvtrDn5+PM9hvNgRrNb9&#10;D/XpFSYgxN+OHmfpqvW8tfvD0YMYwY8CkWsftaNQFm5zBeuJaVMm0TSnnqk1VxIOme6cM1Kyt5Gd&#10;5+3ru3v+zN+PfEmhWvfTiVy7RLmOiofIKytlP+uV03YC/MYMAuGWEFBsOQX7ev93/zsZ9nsYsxDK&#10;QKQ9I/CxBdFuiJJ9OYGPEQgRY59hGcYGRDrGHgQdlrDBJNrQgWl1C9IIlLvGIUN2jDsTIMpjMKDs&#10;BOSR03YybLohaOQOJcZzRLr2mnQeShK95QgmrYaiApgMlLt75f8bCIXQLvCeQlYRubSXkycH/gPn&#10;LtXhXrQZ1gAAAABJRU5ErkJggg==&#10;"
+     id="image1"
+     x="3.7674608"
+     y="3.9437976" />
+  <text
+     xml:space="preserve"
+     style="font-size:32.4573px;line-height:100;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.179868;paint-order:stroke markers fill"
+     x="57.669361"
+     y="39.177898"
+     id="text11"
+     transform="scale(1.0208771,0.97954983)"><tspan
+       sodipodi:role="line"
+       id="tspan11"
+       x="57.669361"
+       y="39.177898"
+       style="stroke-width:0.179868"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Adobe Gothic Std';-inkscape-font-specification:'Adobe Gothic Std Bold';stroke-width:0.179868"
+         id="tspan12">ARAG</tspan></tspan></text>
+</svg>
